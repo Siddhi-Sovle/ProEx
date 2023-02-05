@@ -1,0 +1,11 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Winter Zone Mini 1.0/demo scenes/meshTerrains_demo.unity
+    guid: 57e2110158519ec4f823a5b5e032d6f7
+  m_configObjects: {}
