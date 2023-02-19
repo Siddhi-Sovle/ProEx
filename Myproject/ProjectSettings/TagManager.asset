@@ -3,7 +3,18 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - light kick
+  - dontpushleft
+  - heavy kick
+  - collider
+  - handhit
+  - backflip
+  - enemyleghit
+  - enemyhandhit
+  - enemy
+  - neel
+  - swipinghit
   layers:
   - Default
   - TransparentFX
@@ -13,8 +24,8 @@ TagManager:
   - UI
   - Ground
   - Scene
-  - 
-  - 
+  - collider
+  - postprocessing
   - 
   - 
   - 
